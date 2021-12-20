@@ -1,3 +1,15 @@
+
+# NNDYM 
+
+
+![Vercel and NNDYM Logo.](./readme-assets/banner.jpg)
+
+## Thank You
+
+This project has been made possible by working with the team at [Vercel](https://vercel.com/?utm_source=[issonz]&utm_campaign=oss)
+
+
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)

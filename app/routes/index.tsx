@@ -27,6 +27,9 @@ export default function Index() {
           </a>
         </li>
       </ul>
+      <a target="_blank" className='mr-4' rel="noreferrer" href="https://vercel.com/?utm_source=[issonz]&utm_campaign=oss">
+          <img width={106} height={22} src="/vercel/powered-by-vercel.svg" alt="powered by vercel"/>
+      </a>
     </div>
   );
 }
